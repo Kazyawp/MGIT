@@ -1,5 +1,12 @@
-console.log('testing git');
-console.log('version-1');
+
 console.log('version-2');
 console.log(' SO FAR SO GOOD ');
+console.log(' SO FAR SO GOOD ');
+console.log(' SO FAR SO GOOD ');
+console.log(' SO FAR SO GOOD ');
+console.log(' SO FAR SO GOOD ');
+
 console.log('version-3');
+console.log('version-4');
+console.log('testing git');
+console.log('version-1');
