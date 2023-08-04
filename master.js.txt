@@ -1,6 +1,8 @@
 console.log('testing git');
 console.log('version-1');
 console.log('version-2');
-console.log(' FEATURE2 ');
+console.log(' RESOLVED FEATURE')
 console.log('version-3');
 console.log('testing git features')
+
+
